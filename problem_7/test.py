@@ -2,7 +2,7 @@ import unittest
 
 from problem_7.solution import count
 
-class TestProblem6(unittest.TestCase):
+class TestProblem7(unittest.TestCase):
 
     def test_len_1(self):
 
